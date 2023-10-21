@@ -91,7 +91,7 @@ height: 80px;
 }
 .logo{
   justify-self: center;
-  display: flexs;
+  display: flex;
 }
 .basket{
   justify-self: end;
